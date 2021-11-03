@@ -11,7 +11,6 @@ Eu sou o Joisiney, apaixonado e entusiasta por tecnologia atuando a mais de uma 
 <div>
   <a href="https://github.com/joisiney">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joisiney&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joisiney&layout=compact&langs_count=7&theme=dark"/>
 </div> <br>
 <!-- Contatos  -->
   
