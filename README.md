@@ -4,7 +4,7 @@ Eu sou o Joisiney, apaixonado e entusiasta por tecnologia atuando a mais de uma 
 <!-- Apresentação -->
 
 - 🔭 Hoje trabalho com Desenvolvimento Frontend e Backend
-- 🌱 Estudando novas tecnologias como: UI/Designer (FIGMA E INVISIBLE), Flutter e C# .NET
+- 🌱 Estudando novas tecnologias como: Kotlin e Swift
 - 🤞 Em busca de trabalhos, parcerias e oportunidades ✨✨✨✨✨✨✨
 
 <!-- Painel de Trabalhos -->
