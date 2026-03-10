@@ -17,15 +17,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joisiney&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joisiney&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joisiney&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joisiney&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com/?user=joisiney&theme=tokyonight"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joisiney&theme=tokyo-night)
 
 </div>
 
