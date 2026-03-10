@@ -11,10 +11,12 @@
 
 ## 📊 Minhas Stats (ou: quanto café eu tomei)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joisiney&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Joisiney's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joisiney&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</div>
+![GitHub commits](https://img.shields.io/badge/Commits-1k%2B-brightgreen?style=for-the-badge&logo=github)
+![GitHub repos](https://img.shields.io/badge/Repos-50%2B-blue?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/badge/Stars-100%2B-yellow?style=for-the-badge&logo=github)
+![GitHub followers](https://img.shields.io/badge/Followers-200%2B-orange?style=for-the-badge&logo=github)
+
+![Top Langs](https://img.shields.io/badge/Top_Langs-TypeScript,Node.js,React-007ACC?style=for-the-badge&logo=typescript)
 
 ![Visitantes](https://komarev.com/ghpvc/?username=joisiney&color=brightgreen&style=for-the-badge)
 
