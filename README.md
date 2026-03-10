@@ -17,21 +17,21 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joisiney&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joisiney&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joisiney&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=joisiney&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joisiney&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-![Visitantes](https://komarev.com/ghpvc/?username=joisiney&color=brightgreen&style=for-the-badge)
+<img height="170" src="https://streak-stats.demolab.com/?user=joisiney&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=joisiney&style=for-the-badge&color=brightgreen"/>
 
 </div>
 
