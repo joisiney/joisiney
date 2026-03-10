@@ -16,7 +16,6 @@
 ## 📊 Minhas Stats (ou: quanto café eu tomei)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joisiney&style=for-the-badge&color=brightgreen)
-
 ![Followers](https://img.shields.io/github/followers/joisiney?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/joisiney?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
 ![Repos](https://img.shields.io/badge/Public%20Repos-$(curl -s https://api.github.com/users/joisiney | jq .public_repos)-blue?style=for-the-badge)
