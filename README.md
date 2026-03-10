@@ -15,27 +15,11 @@
 
 ## 📊 Minhas Stats (ou: quanto café eu tomei)
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=joisiney&style=for-the-badge&color=brightgreen)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joisiney&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joisiney&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joisiney&theme=tokyo-night)
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=joisiney&style=for-the-badge&color=brightgreen"/>
-
-</div>
-
----
+![Followers](https://img.shields.io/github/followers/joisiney?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/joisiney?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-$(curl -s https://api.github.com/users/joisiney | jq .public_repos)-blue?style=for-the-badge)
 
 ## 🎯 O que eu faço (resumo pra quem tem pressa)
 
