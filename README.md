@@ -16,17 +16,10 @@
 ## 📊 Minhas Stats (ou: quanto café eu tomei)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joisiney&style=for-the-badge&color=brightgreen)
+
 ![Followers](https://img.shields.io/github/followers/joisiney?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/joisiney?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-$(curl -s https://api.github.com/users/joisiney | jq .public_repos)-blue?style=for-the-badge)
-
-## 🎯 O que eu faço (resumo pra quem tem pressa)
-
-Construo **sistemas distribuídos que não caem** quando o volume sobe. Especialista em **fintech, crypto e plataformas de alta escala**, onde **dados inconsistentes = prejuízo real**.
-
-> 💡 **Filosofia:** "Nem tudo precisa ser microserviço. Às vezes um SQL bem feito e um bom design de domínio resolvem mais que 47 containers Kubernetes."
-
-![Senior Dev Mindset](https://imgs.xkcd.com/comics/dependency.png)
+![Stars](https://img.shields.io/github/stars/joisiney?style=for-the-badge)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/joisiney&color=blue)
 
 ---
 
