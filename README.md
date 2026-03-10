@@ -15,14 +15,25 @@
 
 ## 📊 Minhas Stats (ou: quanto café eu tomei)
 
-![GitHub commits](https://img.shields.io/badge/Commits-1k%2B-brightgreen?style=for-the-badge&logo=github)
-![GitHub repos](https://img.shields.io/badge/Repos-50%2B-blue?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/badge/Stars-100%2B-yellow?style=for-the-badge&logo=github)
-![GitHub followers](https://img.shields.io/badge/Followers-200%2B-orange?style=for-the-badge&logo=github)
+<div align="center">
 
-![Top Langs](https://img.shields.io/badge/Top_Langs-TypeScript,Node.js,React-007ACC?style=for-the-badge&logo=typescript)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joisiney&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joisiney&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=joisiney&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
 
 ![Visitantes](https://komarev.com/ghpvc/?username=joisiney&color=brightgreen&style=for-the-badge)
+
+</div>
 
 ---
 
