@@ -1,68 +1,172 @@
-Olá!
-Eu sou o Joisiney, apaixonado e entusiasta por tecnologia atuando a mais de uma década com desenvolvimento de software. Inicialmente com ActionScript e evoluindo para desenvolvedor mobile com experiência em sistemas SPA atualmente usando react; em sistemas Backend usando nodejs (Graphql + TypeORM) com banco de dados postgres + redis e criação de apps em React Native.
+# 👋 Olá, eu sou o Joisiney
 
-<!-- Apresentação -->
+### Senior Software Engineer que já viu muita "arquitetura de astronauta" cair em produção 🚀
 
-- 🔭 Hoje trabalho com Desenvolvimento Frontend e Backend
-- 🌱 Estudando novas tecnologias como: Kotlin e Swift
-- 🤞 Em busca de trabalhos, parcerias e oportunidades ✨✨✨✨✨✨✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joisiney)
+[![Experience](https://img.shields.io/badge/Experience-15%2B%20years-brightgreen?style=for-the-badge)]()
 
-<!-- Painel de Trabalhos -->
-<div>
-  <a href="https://github.com/joisiney">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joisiney&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div> <br>
-<!-- Contatos  -->
-  
-  <div>    
-  <a href = "mailto:joisiney@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joisiney/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5562981572461" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-                                                                                     
- <br>
-  
-<!-- Tecnologias -->  
-  
-<div style="display: inline_block">
-  
-  <h3> Back-end </h3>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-original.svg"><hr>
-  
-  <h3> Front-end </h3>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
-  
-  <hr>
-  
-  <h3> UI/UX Designer </h3>
-    
-  <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
-  <img align="center" alt="protoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="adobe xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/xd/xd-plain.svg">
-  <hr>
-    
-  <h3> Desenvolvimento Mobile </h3>  
-  
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
-   <hr>
-  
-   <h3> IDE </h3>  
-  
-  <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
-  <img align="center" alt="android studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg"><br>
-   <hr>
-     
-  <!-- Contador de visitas -->
-  
-  <h3> Visitantes </h3>  
-  <div>
-    <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=joisiney&color=green" alt="joisiney" /> <br>
-  </div>  
+---
 
- 
- 
+## 🎯 O que eu faço (resumo pra quem tem pressa)
+
+Construo **sistemas distribuídos que não caem** quando o volume sobe. Especialista em **fintech, crypto e plataformas de alta escala**, onde **dados inconsistentes = prejuízo real**.
+
+> 💡 **Filosofia:** "Nem tudo precisa ser microserviço. Às vezes um SQL bem feito e um bom design de domínio resolvem mais que 47 containers Kubernetes."
+
+![Senior Dev Mindset](https://imgs.xkcd.com/comics/dependency.png)
+
+---
+
+## 🧠 Como eu penso (ou tento)
+
+| Junior Eu | Senior Eu |
+|-----------|-----------|
+| "Vamos usar Kafka pra tudo!" | "Realmente precisa de Kafka ou uma fila simples resolve?" |
+| Microserviços desde o dia 1 | Começa monolito, extrai quando dói |
+| Complexidade pra impressionar | Simplicidade pra manter são |
+| "Funciona na minha máquina" | "Tem observabilidade, métrica e runbook" |
+
+**Princípios que sigo:**
+- ✅ Complexidade **precisa** se justificar (e pagar aluguel)
+- ✅ Arquitetura escala o **produto** e o **time** (não só o ego)
+- ✅ Código legível > Código "inteligente"
+- ✅ Observabilidade não é feature, é obrigação
+- ✅ Contratos claros evitam 3am calls
+
+---
+
+## 🚀 O que eu já construí (e sobrevivi pra contar)
+
+### 💰 Plataformas de Trading Crypto
+- Integração com múltiplas exchanges (sim, cada uma tem sua "particularidade")
+- Backtesting com dados históricos (e muitos cafés)
+- **WebAssembly no client** pra lógica crítica (porque JS as vezes não basta)
+- Processamento de market data em tempo real
+
+### 🏦 Infraestrutura Financeira
+- Antecipação de recebíveis (dinheiro não pode sumir)
+- Sistemas transacionais com consistência financeira
+- Arquitetura orientada a eventos (quando **realmente** faz sentido)
+
+### ⚡ Sistemas de Alta Concorrência
+- Picos de **100k acessos em minutos** (Black Friday mode: ON)
+- Disputa simultânea de recursos (race conditions são meu pesadelo)
+- Controle transacional rigoroso (porque dinheiro é sério)
+
+### 🛠 Ferramentas Internas (porque eu sou aquele dev)
+- Geradores automáticos de arquitetura (preguiça produtiva)
+- Versionamento semântico automatizado
+- Orquestração de ambientes de dev (adeus "na minha máquina funciona")
+
+---
+
+## 📚 Projetos que eu mantenho (e você pode usar)
+
+### 📨 Arquitetura de Mensageria com SQS/SNS + Clean Architecture
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/joisiney/sqs-sns-localstak-decorator-clean-code-nodejs)
+
+Como processar filas de forma **limpa, testável e sem surpresas**. Com LocalStack pra desenvolver local sem chorar.
+
+### 🔄 Monorepo com Kafka + Microserviços
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/joisiney/monorepo-tsx-decorator-kafka-socket-io)
+
+Microserviços que conversam entre si sem virar uma bagunça. Kafka + Socket.IO + TypeScript = ❤️
+
+### ⚛️ React sem sofrimento
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/joisiney/react-prevent-props-drilling-and-re-renders)
+
+Porque **props drilling** e **re-renders desnecessários** são inimigos da sanidade mental.
+
+### ₿ API Bitcoin (desafio técnico feito com carinho)
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/joisiney/bitcoin-api-desafio)
+
+Mais que resolver o desafio: mostrar **como se estrutura uma API de verdade**.
+
+---
+
+## 🧰 Stack que eu domino (e uso sem medo)
+
+### Backend & Sistemas Distribuídos
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Arquitetura:** Microservices | Event Driven | DDD | Clean Architecture
+
+**Mensageria:** Kafka | SQS/SNS | BullMQ | Redis
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Estado:** Zustand | TanStack Query | Apollo Client
+
+**Performance:** Reanimated | GSAP | WebAssembly
+
+### Cloud & Infra
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**ORM:** Drizzle | Prisma | TypeORM
+
+---
+
+## 📊 Minhas Stats (ou: quanto café eu tomei)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joisiney&show_icons=true&theme=tokyonight&hide_border=true" alt="Joisiney's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joisiney&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</div>
+
+---
+
+## 🎬 Curiosidade (ou: como eu envelheci)
+
+Comecei minha carreira fazendo **animações em Flash/ActionScript** integradas com After Effects. 
+
+Sim, eu sou **da época do Flash**. E isso me ensinou:
+- Performance importa (15fps era "liso")
+- Controle total sobre cada pixel
+- Renderização não é mágica, é matemática
+
+Essa mentalidade ainda me acompanha: **performance, controle e fidelidade** em tudo que construo.
+
+![Flashback](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+
+---
+
+## 💡 Como eu posso te ajudar?
+
+Se você está:
+- 🤔 Arquitetando um sistema distribuído e quer evitar armadilhas
+- 📈 Escalando uma plataforma e precisa de consistência
+- 🏗️ Estruturando microsserviços sem virar caos
+- 🎯 Buscando boas práticas de backend/frontend
+
+**Bora conversar!** Gosto de compartilhar conhecimento e aprender junto.
+
+---
+
+## 📫 Vamos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joisiney)
+
+---
+
+<div align="center">
+
+⭐ **Se algum projeto te ajudou, deixa uma star!** (ajuda meu ego e o algoritmo do GitHub 🙏)
+
+*Feito com ☕,  e muito `git push --force` (mentira, nunca faça isso)*
+
+</div>
