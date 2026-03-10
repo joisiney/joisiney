@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGEC8TTkIj-qQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706878206378?e=1774483200&v=beta&t=OffoGx6xrTvSgxyE00aXQjRRzza5r72-adzQnBFT6ro" alt="Joisiney - Senior Software Engineer Banner" width="100%" style="max-width: 1400px; border-radius: 8px;"/>
+</div>
 # 👋 Olá, eu sou o Joisiney
 
 ### Senior Software Engineer que já viu muita "arquitetura de astronauta" cair em produção 🚀
