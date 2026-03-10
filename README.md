@@ -2,9 +2,21 @@
 
 ### Senior Software Engineer que já viu muita "arquitetura de astronauta" cair em produção 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joisiney/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joisiney)
-[![Experience](https://img.shields.io/badge/Experience-15%2B%20years-brightgreen?style=for-the-badge)]()
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joisiney@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5562981572461)
+
+---
+
+## 📊 Minhas Stats (ou: quanto café eu tomei)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joisiney&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Joisiney's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joisiney&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</div>
+
+![Visitantes](https://komarev.com/ghpvc/?username=joisiney&color=brightgreen&style=for-the-badge)
 
 ---
 
@@ -85,47 +97,71 @@ Mais que resolver o desafio: mostrar **como se estrutura uma API de verdade**.
 
 ---
 
-## 🧰 Stack que eu domino (e uso sem medo)
+## 🧰 Minha Stack (ferramentas que eu domino)
 
-### Backend & Sistemas Distribuídos
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### <h3>☕ Back-end & Sistemas Distribuídos</h3>
 
-**Arquitetura:** Microservices | Event Driven | DDD | Clean Architecture
-
-**Mensageria:** Kafka | SQS/SNS | BullMQ | Redis
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Estado:** Zustand | TanStack Query | Apollo Client
-
-**Performance:** Reanimated | GSAP | WebAssembly
-
-### Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**ORM:** Drizzle | Prisma | TypeORM
-
----
-
-## 📊 Minhas Stats (ou: quanto café eu tomei)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joisiney&show_icons=true&theme=tokyonight&hide_border=true" alt="Joisiney's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joisiney&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="NestJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="GraphQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
 </div>
+<br>
+
+**Bancos de Dados & Mensageria:**
+
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Redis" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  <img align="center" alt="Apache Kafka" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+</div>
+<br>
+
+### <h3>⚛️ Front-end & Mobile</h3>
+
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="React Native" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sass" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+</div>
+<br>
+
+### <h3>☁️ Cloud & DevOps</h3>
+
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Nginx" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+</div>
+<br>
+
+### <h3>🎨 UI/UX & Design</h3>
+
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="Adobe XD" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
+</div>
+<br>
+
+### <h3>🛠️ IDEs & Ferramentas</h3>
+
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Visual Studio" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Android Studio" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+</div>
+<br>
 
 ---
 
@@ -158,8 +194,9 @@ Se você está:
 
 ## 📫 Vamos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joisiney)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joisiney/)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joisiney@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5562981572461)
 
 ---
 
@@ -167,6 +204,6 @@ Se você está:
 
 ⭐ **Se algum projeto te ajudou, deixa uma star!** (ajuda meu ego e o algoritmo do GitHub 🙏)
 
-*Feito com ☕,  e muito `git push --force` (mentira, nunca faça isso)*
+*Feito com ☕, 🧠 e muito `git push --force` (mentira, nunca faça isso)*
 
 </div>
