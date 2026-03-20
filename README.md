@@ -13,7 +13,7 @@
 
 ---
 
-## Sobre mim (ou: quanto café eu tomei)
+## Sobre mim
 
 Sou engenheiro de software com foco em backend, arquitetura, sistemas distribuídos e produtos que precisam continuar saudáveis mesmo quando o volume cresce, a regra de negócio complica e o time precisa manter velocidade sem perder previsibilidade.
 
@@ -31,7 +31,7 @@ Já trabalhei com plataformas de alta concorrência, sistemas financeiros, tradi
 
 ---
 
-## 🧠 Como eu penso
+## 🧠 Como eu penso (ou tento)
 
 | Menos experiência             | Mais experiência                                        |
 | ----------------------------- | ------------------------------------------------------- |
@@ -56,28 +56,38 @@ Já trabalhei com plataformas de alta concorrência, sistemas financeiros, tradi
 
 * Integração com múltiplas exchanges
 * Execução e orquestração de estratégias
-* Backtesting com dados históricos
+* Backtesting com dados históricos (e muitos cafés)
 * Processamento de market data em tempo real
-* Uso de WebAssembly no client para cenários onde isolamento, performance e distribuição fazem diferença
+* Uso de WebAssembly no client (porque JS as vezes não basta) para cenários onde isolamento, performance e distribuição fazem diferença
+
+### 🖥️ Front-end e mobile em produtos que precisam escalar de verdade
+
+* React, Next.js, Vite e Electron em produtos web e desktop
+* React Native + Expo com foco em arquitetura previsível, OTA updates e alta velocidade de evolução
+* Atomic Design, modularização por domínio e separação clara entre UI, regras e dados
+* Tipagem ponta a ponta consumindo contratos do backend com geração automática de clients
+* Estado e sincronização com Zustand, TanStack Query, Apollo Client e estratégias voltadas a evitar re-renders desnecessários
+* Interfaces com dados em tempo real via sockets, polling inteligente e experiências offline-first
+* Gráficos avançados, animações fluidas e alta fidelidade visual com Reanimated, Lottie, Skia, SVG customizado e TradingView
 
 ### 🏦 Sistemas com responsabilidade financeira real
 
-* Fluxos de antecipação de recebíveis
+* Fluxos de antecipação de recebíveis (dinheiro não pode sumir)
 * Serviços transacionais com consistência de regra de negócio
 * Arquiteturas orientadas a eventos onde isso de fato traz benefício operacional
 
 ### ⚡ Plataformas sob alta concorrência
 
-* Picos de **100k acessos em minutos** (Black Friday mode: ON)
+* Cenários com picos fortes de acesso
 * Disputa simultânea de recursos e cuidados com concorrência (race conditions são meu pesadelo)
-* Controle transacional e previsibilidade em fluxos críticos
+* Controle transacional e previsibilidade em fluxos críticos (porque dinheiro é sério)
 
 ### 🛠 Ferramentas internas para engenharia
 
 * Geração automatizada de estrutura arquitetural
 * Versionamento semântico com análise de impacto
 * Ambientes de desenvolvimento mais previsíveis
-* Automação para reduzir trabalho manual repetitivo e melhorar DX
+* Automação para reduzir trabalho manual repetitivo (preguiça produtiva)
 
 ---
 
@@ -119,7 +129,7 @@ Outro desafio técnico onde a intenção não foi apenas “entregar o que pedir
 
 ## 🧰 Stack principal
 
-### ☕ Back-end e sistemas distribuídos
+### Back-end e sistemas distribuídos
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -140,7 +150,7 @@ Outro desafio técnico onde a intenção não foi apenas “entregar o que pedir
 </div>
 <br>
 
-### ⚛️ Front-end e mobile
+### Front-end e mobile
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -152,7 +162,16 @@ Outro desafio técnico onde a intenção não foi apenas “entregar o que pedir
 </div>
 <br>
 
-### ☁️ Cloud & DevOps
+**O lado de produto e experiência que eu também levo a sério**
+
+* React desde 2015, com experiência em produtos web que precisam continuar organizados conforme crescem
+* React Native + Expo para apps com release previsível, OTA update e boa DX de time
+* Arquitetura de frontend com foco em modularização, reuso, isolamento de responsabilidades e tipagem ponta a ponta
+* Performance de interface, sincronização em tempo real, redução de re-renders e gerenciamento de estado sem virar caos
+* Construção de experiências de alta fidelidade visual com animações, gráficos, SVG, Skia, Lottie e TradingView
+* Offline-first, geolocalização, background tasks, notificações push e feature flags para produtos vivos em produção
+
+### Cloud e DevOps
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
@@ -161,7 +180,7 @@ Outro desafio técnico onde a intenção não foi apenas “entregar o que pedir
 </div>
 <br>
 
-### 🎨 UI/UX e ferramentas visuais
+### UI/UX e ferramentas visuais
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -170,7 +189,7 @@ Outro desafio técnico onde a intenção não foi apenas “entregar o que pedir
 </div>
 <br>
 
-### 🛠️ IDEs e ferramentas de trabalho
+### IDEs e ferramentas de trabalho
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -179,9 +198,7 @@ Outro desafio técnico onde a intenção não foi apenas “entregar o que pedir
 </div>
 <br>
 
----
-
-## 🎬 Curiosidade de carreira
+## 🎬 Curiosidade de carreira (ou: como eu envelheci)
 
 Comecei lá atrás com animações em Flash/ActionScript integradas com After Effects. Sim, isso denuncia a quilometragem.
 
