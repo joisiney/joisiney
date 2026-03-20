@@ -4,95 +4,122 @@
 
 # 👋 Olá, eu sou o Joisiney
 
-### Senior Software Engineer que já viu muita "arquitetura de astronauta" cair em produção 🚀
+### Senior Software Engineer que gosta de arquitetura boa, código legível e de evitar sofrimento desnecessário em produção 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joisiney/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joisiney)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joisiney@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5562981572461)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joisiney/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/joisiney)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge\&logo=microsoft-outlook\&logoColor=white)](mailto:joisiney@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5562981572461)
 
 ---
 
-## 📊 Minhas Stats (ou: quanto café eu tomei)
+## Sobre mim (ou: quanto café eu tomei)
 
-![Profile Views](https://komarev.com/ghpvc/?username=joisiney&style=for-the-badge&color=brightgreen)
+Sou engenheiro de software com foco em backend, arquitetura, sistemas distribuídos e produtos que precisam continuar saudáveis mesmo quando o volume cresce, a regra de negócio complica e o time precisa manter velocidade sem perder previsibilidade.
+
+Gosto de resolver problema de verdade. Às vezes isso envolve microsserviços, filas, observabilidade e automação. Às vezes envolve justamente o contrário: cortar camadas, simplificar fluxo e impedir que uma ideia “bonita” vire custo de manutenção daqui seis meses.
+
+Já trabalhei com plataformas de alta concorrência, sistemas financeiros, trading, backtesting, integrações críticas e estruturas internas voltadas para produtividade de times de engenharia. No meio disso tudo, fui aprendendo uma lição que ainda guia bastante o meu jeito de construir software: arquitetura boa não é a mais complexa — é a que continua fazendo sentido quando a operação aperta.
+
+## 📊 Minhas Stats (ou: alguns números que o GitHub resolveu expor)
+
+![Profile Views](https://komarev.com/ghpvc/?username=joisiney\&style=for-the-badge\&color=brightgreen)
 
 ![Followers](https://img.shields.io/github/followers/joisiney?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/joisiney?style=for-the-badge)
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/joisiney&color=blue)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge\&label=Public%20Repos\&query=public_repos\&url=https://api.github.com/users/joisiney\&color=blue)
 
 ---
 
-## 🧠 Como eu penso (ou tento)
+## 🧠 Como eu penso
 
-| Junior Eu | Senior Eu |
-|-----------|-----------|
-| "Vamos usar Kafka pra tudo!" | "Realmente precisa de Kafka ou uma fila simples resolve?" |
-| Microserviços desde o dia 1 | Começa monolito, extrai quando dói |
-| Complexidade pra impressionar | Simplicidade pra manter são |
-| "Funciona na minha máquina" | "Tem observabilidade, métrica e runbook" |
+| Menos experiência             | Mais experiência                                        |
+| ----------------------------- | ------------------------------------------------------- |
+| “Vamos usar Kafka pra tudo”   | “A gente realmente precisa de Kafka aqui?”              |
+| Microserviços no dia 1        | Monolito bem feito até existir motivo real para extrair |
+| Complexidade pra impressionar | Simplicidade pra manter o sistema respirando            |
+| “Depois a gente observa”      | Sem observabilidade, a produção vira adivinhação        |
 
-**Princípios que sigo:**
-- ✅ Complexidade **precisa** se justificar (e pagar aluguel)
-- ✅ Arquitetura escala o **produto** e o **time** (não só o ego)
-- ✅ Código legível > Código "inteligente"
-- ✅ Observabilidade não é feature, é obrigação
-- ✅ Contratos claros evitam 3am calls
+**Princípios que eu tento manter perto do teclado:**
+
+* Complexidade precisa se justificar
+* Arquitetura boa ajuda o produto e também o time
+* Código legível quase sempre vence código “esperto”
+* Contratos claros evitam ruído, retrabalho e incidente bobo
+* Observabilidade não é luxo; é parte da responsabilidade
 
 ---
 
 ## 🚀 O que eu já construí (e sobrevivi pra contar)
 
-### 💰 Plataformas de Trading Crypto
-- Integração com múltiplas exchanges (sim, cada uma tem sua "particularidade")
-- Backtesting com dados históricos (e muitos cafés)
-- **WebAssembly no client** pra lógica crítica (porque JS as vezes não basta)
-- Processamento de market data em tempo real
+### 💰 Plataformas de trading e automação financeira
 
-### 🏦 Infraestrutura Financeira
-- Antecipação de recebíveis (dinheiro não pode sumir)
-- Sistemas transacionais com consistência financeira
-- Arquitetura orientada a eventos (quando **realmente** faz sentido)
+* Integração com múltiplas exchanges
+* Execução e orquestração de estratégias
+* Backtesting com dados históricos
+* Processamento de market data em tempo real
+* Uso de WebAssembly no client para cenários onde isolamento, performance e distribuição fazem diferença
 
-### ⚡ Sistemas de Alta Concorrência
-- Picos de **100k acessos em minutos** (Black Friday mode: ON)
-- Disputa simultânea de recursos (race conditions são meu pesadelo)
-- Controle transacional rigoroso (porque dinheiro é sério)
+### 🏦 Sistemas com responsabilidade financeira real
 
-### 🛠 Ferramentas Internas (porque eu sou aquele dev)
-- Geradores automáticos de arquitetura (preguiça produtiva)
-- Versionamento semântico automatizado
-- Orquestração de ambientes de dev (adeus "na minha máquina funciona")
+* Fluxos de antecipação de recebíveis
+* Serviços transacionais com consistência de regra de negócio
+* Arquiteturas orientadas a eventos onde isso de fato traz benefício operacional
+
+### ⚡ Plataformas sob alta concorrência
+
+* Picos de **100k acessos em minutos** (Black Friday mode: ON)
+* Disputa simultânea de recursos e cuidados com concorrência (race conditions são meu pesadelo)
+* Controle transacional e previsibilidade em fluxos críticos
+
+### 🛠 Ferramentas internas para engenharia
+
+* Geração automatizada de estrutura arquitetural
+* Versionamento semântico com análise de impacto
+* Ambientes de desenvolvimento mais previsíveis
+* Automação para reduzir trabalho manual repetitivo e melhorar DX
 
 ---
 
-## 📚 Projetos que eu mantenho (e você pode usar)
+## 📚 Projetos que valem a leitura
 
-### 📨 Arquitetura de Mensageria com SQS/SNS + Clean Architecture
-[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/joisiney/sqs-sns-localstak-decorator-clean-code-nodejs)
+Aqui estão alguns repositórios que representam bem o meu jeito de pensar software: preocupação com clareza, arquitetura, manutenção e, quando necessário, escala.
 
-Como processar filas de forma **limpa, testável e sem surpresas**. Com LocalStack pra desenvolver local sem chorar.
+### 🔗 Short URL API
 
-### 🔄 Monorepo com Kafka + Microserviços
-[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/joisiney/monorepo-tsx-decorator-kafka-socket-io)
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge\&logo=github)](https://github.com/joisiney/short-url-api)
 
-Microserviços que conversam entre si sem virar uma bagunça. Kafka + Socket.IO + TypeScript = ❤️
+Um encurtador de URLs em NestJS com PostgreSQL, Redis, Drizzle, TDD, observabilidade e uma base arquitetural pensada para ir além do “desafio entregue”. Foi um projeto pequeno por escopo, mas tratado com o mesmo cuidado de um serviço que pode crescer sem virar bagunça.
+
+### 📨 Arquitetura de mensageria com SQS/SNS + Clean Architecture
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge\&logo=github)](https://github.com/joisiney/sqs-sns-localstak-decorator-clean-code-nodejs)
+
+Um exemplo de como trabalhar com filas e eventos de forma organizada, testável e sem transformar mensageria em ritual místico. Inclui desenvolvimento local com LocalStack.
+
+### 🔄 Monorepo com Kafka + microserviços
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge\&logo=github)](https://github.com/joisiney/monorepo-tsx-decorator-kafka-socket-io)
+
+Um projeto voltado a comunicação entre serviços sem perder estrutura no caminho. Kafka, Socket.IO e TypeScript entrando em cena com foco em organização e previsibilidade.
 
 ### ⚛️ React sem sofrimento
-[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/joisiney/react-prevent-props-drilling-and-re-renders)
 
-Porque **props drilling** e **re-renders desnecessários** são inimigos da sanidade mental.
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge\&logo=github)](https://github.com/joisiney/react-prevent-props-drilling-and-re-renders)
 
-### ₿ API Bitcoin (desafio técnico feito com carinho)
-[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge&logo=github)](https://github.com/joisiney/bitcoin-api-desafio)
+Um repositório mais direto ao ponto sobre performance e ergonomia no frontend, especialmente em torno de props drilling e re-renders desnecessários.
 
-Mais que resolver o desafio: mostrar **como se estrutura uma API de verdade**.
+### ₿ API Bitcoin
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projeto-181717?style=for-the-badge\&logo=github)](https://github.com/joisiney/bitcoin-api-desafio)
+
+Outro desafio técnico onde a intenção não foi apenas “entregar o que pediram”, mas mostrar estrutura, organização e preocupação com qualidade de verdade.
 
 ---
 
-## 🧰 Minha Stack (ferramentas que eu domino)
+## 🧰 Stack principal
 
-### <h3>☕ Back-end & Sistemas Distribuídos</h3>
+### ☕ Back-end e sistemas distribuídos
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -103,7 +130,7 @@ Mais que resolver o desafio: mostrar **como se estrutura uma API de verdade**.
 </div>
 <br>
 
-**Bancos de Dados & Mensageria:**
+**Bancos, cache e mensageria**
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -113,7 +140,7 @@ Mais que resolver o desafio: mostrar **como se estrutura uma API de verdade**.
 </div>
 <br>
 
-### <h3>⚛️ Front-end & Mobile</h3>
+### ⚛️ Front-end e mobile
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -125,7 +152,7 @@ Mais que resolver o desafio: mostrar **como se estrutura uma API de verdade**.
 </div>
 <br>
 
-### <h3>☁️ Cloud & DevOps</h3>
+### ☁️ Cloud & DevOps
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
@@ -134,7 +161,7 @@ Mais que resolver o desafio: mostrar **como se estrutura uma API de verdade**.
 </div>
 <br>
 
-### <h3>🎨 UI/UX & Design</h3>
+### 🎨 UI/UX e ferramentas visuais
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -143,7 +170,7 @@ Mais que resolver o desafio: mostrar **como se estrutura uma API de verdade**.
 </div>
 <br>
 
-### <h3>🛠️ IDEs & Ferramentas</h3>
+### 🛠️ IDEs e ferramentas de trabalho
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -154,45 +181,48 @@ Mais que resolver o desafio: mostrar **como se estrutura uma API de verdade**.
 
 ---
 
-## 🎬 Curiosidade (ou: como eu envelheci)
+## 🎬 Curiosidade de carreira
 
-Comecei minha carreira fazendo **animações em Flash/ActionScript** integradas com After Effects. 
+Comecei lá atrás com animações em Flash/ActionScript integradas com After Effects. Sim, isso denuncia a quilometragem.
 
-Sim, eu sou **da época do Flash**. E isso me ensinou:
-- Performance importa (15fps era "liso")
-- Controle total sobre cada pixel
-- Renderização não é mágica, é matemática
+Apesar do contexto ter mudado completamente, algumas lições ficaram comigo até hoje:
 
-Essa mentalidade ainda me acompanha: **performance, controle e fidelidade** em tudo que construo.
+* performance importa
+* renderização e experiência não acontecem por mágica
+* restrição técnica costuma ensinar mais do que excesso de recurso
+
+Talvez por isso eu continue gostando tanto de software bem pensado: no fundo, ainda é sobre controle, clareza e comportamento previsível.
 
 ![Flashback](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
 ---
 
-## 💡 Como eu posso te ajudar?
+## 💡 Onde eu costumo agregar mais valor
 
-Se você está:
-- 🤔 Arquitetando um sistema distribuído e quer evitar armadilhas
-- 📈 Escalando uma plataforma e precisa de consistência
-- 🏗️ Estruturando microsserviços sem virar caos
-- 🎯 Buscando boas práticas de backend/frontend
+Se você está lidando com coisas como:
 
-**Bora conversar!** Gosto de compartilhar conhecimento e aprender junto.
+* arquitetura de sistemas distribuídos
+* backend de alta responsabilidade
+* plataformas que estão crescendo e pedindo mais previsibilidade
+* microsserviços que precisam continuar compreensíveis
+* melhoria de DX, automação e organização técnica
+
+… esse é exatamente o tipo de conversa em que eu gosto de entrar.
 
 ---
 
 ## 📫 Vamos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joisiney/)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joisiney@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5562981572461)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joisiney/)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge\&logo=microsoft-outlook\&logoColor=white)](mailto:joisiney@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5562981572461)
 
 ---
 
 <div align="center">
 
-⭐ **Se algum projeto te ajudou, deixa uma star!** (ajuda meu ego e o algoritmo do GitHub 🙏)
+⭐ Se algum projeto te ajudou ou te fez pensar, deixa uma star. Ajuda no algoritmo, ajuda no alcance e, sendo honesto, dá aquele calor humano que todo repositório gosta de receber.
 
-*Feito com ☕, 🧠 e muito `git push --force` (mentira, nunca faça isso)*
+*Feito com café, arquitetura e a firme convicção de que nem todo `abstract factory` precisa nascer.*
 
 </div>
