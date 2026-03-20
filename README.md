@@ -13,7 +13,7 @@
 
 ---
 
-## Sobre mim
+## Sobre mim (ou: quanto café eu tomei)
 
 Sou engenheiro de software com foco em backend, arquitetura, sistemas distribuídos e produtos que precisam continuar saudáveis mesmo quando o volume cresce, a regra de negócio complica e o time precisa manter velocidade sem perder previsibilidade.
 
@@ -210,7 +210,7 @@ Apesar do contexto ter mudado completamente, algumas lições ficaram comigo at�
 
 Talvez por isso eu continue gostando tanto de software bem pensado: no fundo, ainda é sobre controle, clareza e comportamento previsível.
 
-![Flashback](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+![Flashback](https://media1.tenor.com/m/7Tu-pBzg0_kAAAAd/programming.gif)
 
 ---
 
